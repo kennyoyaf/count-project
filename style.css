@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+#value{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.btn{
+    border: 2px bold black;
+}
